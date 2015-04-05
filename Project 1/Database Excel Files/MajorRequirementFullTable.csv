@@ -1,0 +1,23 @@
+MAJOR_REQ_ID,MAJOR_REQ_FULL
+BS-ACC,Accounting Major Core B.S.
+BS-ACC-E,Accounting Major Electives B.S.
+BS-MGT,Management Major Core B.S.
+BS-MGT-E,Management Major Electives B.S.
+BS-FIN,Finance Major Core B.S.
+BS-FIN-E,Finance Major Electives B.S.
+BS-CIS,Computer Information Systems Major Core B.S.
+BS-CIS-E,Computer Information Systems Electives B.S.
+BS-MKT,Marketing Major Core B.S.
+BS-MKT-E,Marketing Major Electives B.S.
+BS-ECO,Economics Major Core B.S.
+BS-ECO-E,Economics Major Electives B.S.
+GS-WC,General Studies - Written Communication
+GS-OC,General Studies - Oral Communication
+GS-MTH,General Studies - Math
+GS-A&H,General Studies - Arts & Humanities
+GS-S&BS,General Studies - Social and Behavioral Studies
+GS-HIS,General Studies - History
+GS-N&PS,General Studies - Natural and Physical Sciences
+GS-GD,General Studies - Global Diversity
+GS-MC,General Studies - Multicultural
+BC,Business Core B.S.
